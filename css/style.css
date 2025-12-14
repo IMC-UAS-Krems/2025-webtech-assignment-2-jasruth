@@ -1,0 +1,37 @@
+html, body{
+    background-color: #ABE0F0;
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background-color: #E2852E ;
+    padding: 1rem 0;
+}
+
+.banner-text {
+    background-color: #FFEE91;
+    padding: 1rem;
+    text-align: center;
+}
+
+main .col {
+    background-color: #FFEE91;
+    margin: 0,75rem;
+    padding: 1rem;
+    border-radius: 12px;
+}
+
+/* Carousel */
+
+.carousel-item {
+    height: 300px
+}
+
+.carousel-item img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.carousel-
